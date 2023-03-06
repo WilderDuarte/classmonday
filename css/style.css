@@ -1,3 +1,7 @@
 body{
     background-color: ORANGE;
 }
+
+tr:hover{
+    background-color: aqua;
+}
